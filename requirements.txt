@@ -1,0 +1,6 @@
+# PK10 投注助手 - 依赖列表
+
+kivy[base]>=2.1.0
+requests>=2.28.0
+pillow>=9.0.0
+numpy>=1.21.0
